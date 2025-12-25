@@ -52,5 +52,4 @@ H --> I[Predictions]
 7. Refer to the [Docker Hub Link](https://hub.docker.com/r/sarav1832/churnapp) for pre-built Docker images.
 8. Set up GitHub Actions workflows for CI/CD by following the `.github/workflows` directory in the repository.
 
----
-*Generated on December 22, 2025 at 3:10 PM*
+
